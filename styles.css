@@ -1,0 +1,29 @@
+.header {
+    background-color:#002626;
+    padding: 50px;
+
+}
+body{margin: 0; }
+h1 { margin: 0;
+    color: #EFE7DA;
+}
+.nav{
+    background-color:#0E4749;
+    padding: 50px;
+}
+.nav__list{
+    margin: 0;
+}
+h2 { margin: 0;}
+
+a{color: #EFE7DA;}
+.main {
+    background-color:#EFE7DA;
+    padding: 50px;
+
+}
+.footer{
+    background-color:#002626;
+    padding: 50px;
+    color: #EFE7DA;
+}
